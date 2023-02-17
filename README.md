@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm an aspiring developer currently enrolled at the School Of Code bootcamp learning Full Stack Development. Recently graduated with a First class degree in Economics and Management, going to uni during covid made me realise that I want a fulfilling career this made me more interested in tech therefore I have chosen to follow this path.
+I'm an aspiring developer that has completed a coding bootcamp at the School Of Code learning Full Stack Development. Recently graduated with a First class degree in Economics and Management, going to uni during covid made me realise that I want a fulfilling career this made me more interested in tech therefore I have chosen to follow this path.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [mohamed.abdi11@hotmail.co.uk](mailto:mohamed.abdi11@hotmail.co.uk)
