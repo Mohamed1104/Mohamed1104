@@ -56,8 +56,6 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohamed1104&layout=compact&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
  <img src="https://www.codewars.com/users/Mohamed1104/badges/large"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed1104&layout=compact&theme=vision-friendly-dark)](https://github.com/Mohamed1104/github-readme-stats)
